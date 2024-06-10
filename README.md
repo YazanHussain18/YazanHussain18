@@ -1,6 +1,6 @@
-## Hi there 👋
-
-<!--
+## 💻 Eng. Yazan Hussain
+## About Me
+I am a computer engineer with a creative and hardworking individual with deep interest in Robotics, AI, and game development. I enjoy challenges and am continously seeking knowledge to increase my skills and grow.
 **YazanHussain18/YazanHussain18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
